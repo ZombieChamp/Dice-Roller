@@ -1,7 +1,7 @@
-#Build 1.0.0
+#Build 1.0.1
 
-from sys import exit
 from random import randint
+from sys import exit
 
 def getDiceNumber():
     try:
